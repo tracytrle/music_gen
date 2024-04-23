@@ -1,3 +1,8 @@
 midi_songs/
 .DS_Store
-.ipynb_checkpoints/
+.ipynb_checkpoints
+mid_collections
+beeth
+classical_piano
+nn_musicgen_files
+
